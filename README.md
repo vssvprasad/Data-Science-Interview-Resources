@@ -106,7 +106,7 @@ This is probably the entry point of your Data Science project, SQL is one of the
 * - [ ]  [Feature Selection Techniques](https://towardsdatascience.com/feature-selection-techniques-in-machine-learning-with-python-f24e7da3f36e) 📘
 * - [ ]  [Why, how and When to scale your features](https://medium.com/greyatom/why-how-and-when-to-scale-your-features-4b30ab09db5e) 📘
 * - [ ]  [Everything you need to know about Scatter plots](https://towardsdatascience.com/everything-you-need-to-know-about-scatter-plots-for-data-visualisation-924144c0bc5) 📘
-* - [ ]  [How to Select Features for Machine Learning](https://www.youtube.com/watch?v=YaKMeAlHgqQ) 📹
+* - [x]  [How to Select Features for Machine Learning](https://www.youtube.com/watch?v=YaKMeAlHgqQ) 📹
 * - [x]  [10 ways for Feature Selection](https://www.youtube.com/watch?v=Erp0bjEPoM8) 📹
 
 
