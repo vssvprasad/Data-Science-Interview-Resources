@@ -93,21 +93,21 @@ This is probably the entry point of your Data Science project, SQL is one of the
 ***
 ## Data Preparation and Visualization
 
-* [5 Feature Selection Algorithms every Data Scientist should know](https://towardsdatascience.com/the-5-feature-selection-algorithms-every-data-scientist-need-to-know-3a6b566efd2) 📘 
-* [6 Different Ways to Compensate for Missing Values In a Dataset ](https://towardsdatascience.com/6-different-ways-to-compensate-for-missing-values-data-imputation-with-examples-6022d9ca0779) 📘 
-* [A Brief Overview of Outlier Detection Techniques](https://towardsdatascience.com/a-brief-overview-of-outlier-detection-techniques-1e0b2c19e561) 📘 
-* [Cleaning and Prepping Data with Python for Data Science — Best Practices and Helpful Packages](https://medium.com/@rrfd/cleaning-and-prepping-data-with-python-for-data-science-best-practices-and-helpful-packages-af1edfbe2a3) 📘 
-* [When to use which plot for visualization](https://towardsdatascience.com/what-plot-why-this-plot-and-why-not-9508a0cb35ea) 📘
-* [Ways to detect and remove Outliers](https://towardsdatascience.com/ways-to-detect-and-remove-the-outliers-404d16608dba) 📘
-* [Dealing with Class Imbalances in Machine Learning](https://towardsdatascience.com/dealing-with-imbalanced-classes-in-machine-learning-d43d6fa19d2) 📘
-* [Smarter ways to encode categorical data](https://towardsdatascience.com/smarter-ways-to-encode-categorical-data-for-machine-learning-part-1-of-3-6dca2f71b159)
-* [Numpy and Pandas Cheatsheet](https://github.com/jessicayung/data-analyst-nd/blob/master/2-intro-to-data-analysis/numpy_pandas_cheatsheet.pdf) 📘
-* [3 Methods to deal with outliers](https://www.kdnuggets.com/2017/01/3-methods-deal-outliers.html) 📘
-* [Feature Selection Techniques](https://towardsdatascience.com/feature-selection-techniques-in-machine-learning-with-python-f24e7da3f36e) 📘
-* [Why, how and When to scale your features](https://medium.com/greyatom/why-how-and-when-to-scale-your-features-4b30ab09db5e) 📘
-* [Everything you need to know about Scatter plots](https://towardsdatascience.com/everything-you-need-to-know-about-scatter-plots-for-data-visualisation-924144c0bc5) 📘
-* [How to Select Features for Machine Learning](https://www.youtube.com/watch?v=YaKMeAlHgqQ) 📹
-* - [x ]  [10 ways for Feature Selection](https://www.youtube.com/watch?v=Erp0bjEPoM8) 📹
+* - [ ]  [5 Feature Selection Algorithms every Data Scientist should know](https://towardsdatascience.com/the-5-feature-selection-algorithms-every-data-scientist-need-to-know-3a6b566efd2) 📘 
+* - [ ]  [6 Different Ways to Compensate for Missing Values In a Dataset ](https://towardsdatascience.com/6-different-ways-to-compensate-for-missing-values-data-imputation-with-examples-6022d9ca0779) 📘 
+* - [ ]  [A Brief Overview of Outlier Detection Techniques](https://towardsdatascience.com/a-brief-overview-of-outlier-detection-techniques-1e0b2c19e561) 📘 
+* - [ ]  [Cleaning and Prepping Data with Python for Data Science — Best Practices and Helpful Packages](https://medium.com/@rrfd/cleaning-and-prepping-data-with-python-for-data-science-best-practices-and-helpful-packages-af1edfbe2a3) 📘 
+* - [ ]  [When to use which plot for visualization](https://towardsdatascience.com/what-plot-why-this-plot-and-why-not-9508a0cb35ea) 📘
+* - [ ]  [Ways to detect and remove Outliers](https://towardsdatascience.com/ways-to-detect-and-remove-the-outliers-404d16608dba) 📘
+* - [ ]  [Dealing with Class Imbalances in Machine Learning](https://towardsdatascience.com/dealing-with-imbalanced-classes-in-machine-learning-d43d6fa19d2) 📘
+* - [ ]  [Smarter ways to encode categorical data](https://towardsdatascience.com/smarter-ways-to-encode-categorical-data-for-machine-learning-part-1-of-3-6dca2f71b159)
+* - [ ]  [Numpy and Pandas Cheatsheet](https://github.com/jessicayung/data-analyst-nd/blob/master/2-intro-to-data-analysis/numpy_pandas_cheatsheet.pdf) 📘
+* - [ ]  [3 Methods to deal with outliers](https://www.kdnuggets.com/2017/01/3-methods-deal-outliers.html) 📘
+* - [ ]  [Feature Selection Techniques](https://towardsdatascience.com/feature-selection-techniques-in-machine-learning-with-python-f24e7da3f36e) 📘
+* - [ ]  [Why, how and When to scale your features](https://medium.com/greyatom/why-how-and-when-to-scale-your-features-4b30ab09db5e) 📘
+* - [ ]  [Everything you need to know about Scatter plots](https://towardsdatascience.com/everything-you-need-to-know-about-scatter-plots-for-data-visualisation-924144c0bc5) 📘
+* - [ ]  [How to Select Features for Machine Learning](https://www.youtube.com/watch?v=YaKMeAlHgqQ) 📹
+* - [x]  [10 ways for Feature Selection](https://www.youtube.com/watch?v=Erp0bjEPoM8) 📹
 
 
 
