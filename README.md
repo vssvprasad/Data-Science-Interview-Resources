@@ -62,33 +62,33 @@ Every Resource I list here is personally verified by me and most of them I have 
 * If you want to quick revise you Stats and ML basics, follow this : https://media-exp2.licdn.com/dms/document/C4D1FAQFLvzVgVxYAAA/feedshare-document-pdf-analyzed/0/1656265480370?e=1657152000&v=beta&t=RD90ZEx3x2VLUGSthO-1uYKadzwTRixKRg3s8j2nvOc
 
 ## Probability and Statistics
-* [Understand the basics of Descriptive Statistics(Really Important for an interview)](https://towardsdatascience.com/understanding-descriptive-statistics-c9c2b0641291) 📘
-* [40 Question on **probability** for a Data Science Interview](https://www.analyticsvidhya.com/blog/2017/04/40-questions-on-probability-for-all-aspiring-data-scientists/) 📘
-* [40 Statistics Interview Problems and Answers for Data Scientists](https://towardsdatascience.com/40-statistics-interview-problems-and-answers-for-data-scientists-6971a02b7eee) 📘
-* [Probability and Statistics in the context of Deep Learning](https://towardsdatascience.com/probability-and-statistics-explained-in-the-context-of-deep-learning-ed1509b2eb3f) 📘
-* [Probability v/s Likelihood](https://www.youtube.com/watch?v=pYxNSUDSFH4) 📹
-* [Bootstrap Methods - The Swiss Army Knife of any Data Scientist](https://medium.com/data-science-journal/the-bootstrap-the-swiss-army-knife-of-any-data-scientist-acd6e592be13) 📘
-* [Confidence Intervals Explained Simply for Data Scientists](https://mlwhiz.com/blog/2020/02/21/ci/) 📘
-* [P-value Explained Simply for Data Scientists](https://towardsdatascience.com/p-value-explained-simply-for-data-scientists-4c0cd7044f14) 📘
-* [PDF is not a probability](https://towardsdatascience.com/pdf-is-not-a-probability-5a4b8a5d9531) 📘
-* [5 Sampling algorithms every Data Scientist should know](https://mlwhiz.com/blog/2019/07/30/sampling/) 📘
-* [The 10 Statistical Techniques Data Scientists Need to Master](https://www.kdnuggets.com/2017/11/10-statistical-techniques-data-scientists-need-master.html) 📘
+* - [x] [Understand the basics of Descriptive Statistics(Really Important for an interview)](https://towardsdatascience.com/understanding-descriptive-statistics-c9c2b0641291) 📘
+* - [ ] [40 Question on **probability** for a Data Science Interview](https://www.analyticsvidhya.com/blog/2017/04/40-questions-on-probability-for-all-aspiring-data-scientists/) 📘
+* - [ ] [40 Statistics Interview Problems and Answers for Data Scientists](https://towardsdatascience.com/40-statistics-interview-problems-and-answers-for-data-scientists-6971a02b7eee) 📘
+* - [ ] [Probability and Statistics in the context of Deep Learning](https://towardsdatascience.com/probability-and-statistics-explained-in-the-context-of-deep-learning-ed1509b2eb3f) 📘
+* - [ ] [Probability v/s Likelihood](https://www.youtube.com/watch?v=pYxNSUDSFH4) 📹
+* - [ ] [Bootstrap Methods - The Swiss Army Knife of any Data Scientist](https://medium.com/data-science-journal/the-bootstrap-the-swiss-army-knife-of-any-data-scientist-acd6e592be13) 📘
+* - [ ] [Confidence Intervals Explained Simply for Data Scientists](https://mlwhiz.com/blog/2020/02/21/ci/) 📘
+* - [ ] [P-value Explained Simply for Data Scientists](https://towardsdatascience.com/p-value-explained-simply-for-data-scientists-4c0cd7044f14) 📘
+* - [ ] [PDF is not a probability](https://towardsdatascience.com/pdf-is-not-a-probability-5a4b8a5d9531) 📘
+* - [ ] [5 Sampling algorithms every Data Scientist should know](https://mlwhiz.com/blog/2019/07/30/sampling/) 📘
+* - [ ] [The 10 Statistical Techniques Data Scientists Need to Master](https://www.kdnuggets.com/2017/11/10-statistical-techniques-data-scientists-need-master.html) 📘
 
 ***
 
 ## SQL and Data Acquisition
 This is probably the entry point of your Data Science project, SQL is one of the most important skills for any Data Scientist.
 
-* [5 Common SQL Interview Problems for Data Scientists](https://towardsdatascience.com/5-common-sql-interview-problems-for-data-scientists-1bfa02d8bae6) 📘
-* [46 Questions to test a Data Scientist on SQL](https://www.analyticsvidhya.com/blog/2017/01/46-questions-on-sql-to-test-a-data-science-professional-skilltest-solution/) 📘
-* [30 SQL Interview Questions curated for FAANG by an Ex-Facebook Data Scientist](https://www.nicksingh.com/posts/30-sql-and-database-design-questions-from-real-data-science-interviews) 📘
-* [SQL Interview Questions](https://365datascience.com/sql-interview-questions/) 📘
-* [How to ace Data Science Interviews - SQL](https://towardsdatascience.com/how-to-ace-data-science-interviews-sql-b71de212e433) 📘
-* [3 Must Know SQL Questions to pass your Data Science Interview](https://medium.com/@jayfeng/three-must-know-sql-questions-to-pass-your-data-science-interview-463311c7eaea) 📘
-* [10 frequently asked SQL Queries in Interviews](https://www.java67.com/2013/04/10-frequently-asked-sql-query-interview-questions-answers-database.html) 📘
-* [Technical Data Science Interview Questions: SQL and Coding](https://hackernoon.com/technical-data-science-interview-questions-sql-and-coding-jv1k32bf) 📘
-* [How to optimize SQL Queries - Datacamp](https://www.datacamp.com/community/tutorials/sql-tutorial-query) 📘
-* [Ten SQL Concepts You Should Know for Data Science Interviews](https://towardsdatascience.com/ten-sql-concepts-you-should-know-for-data-science-interviews-7acf3e428185) 📘
+* - [ ]  [5 Common SQL Interview Problems for Data Scientists](https://towardsdatascience.com/5-common-sql-interview-problems-for-data-scientists-1bfa02d8bae6) 📘
+* - [ ] [46 Questions to test a Data Scientist on SQL](https://www.analyticsvidhya.com/blog/2017/01/46-questions-on-sql-to-test-a-data-science-professional-skilltest-solution/) 📘
+* - [ ]  [30 SQL Interview Questions curated for FAANG by an Ex-Facebook Data Scientist](https://www.nicksingh.com/posts/30-sql-and-database-design-questions-from-real-data-science-interviews) 📘
+* - [ ]  [SQL Interview Questions](https://365datascience.com/sql-interview-questions/) 📘
+* - [ ]  [How to ace Data Science Interviews - SQL](https://towardsdatascience.com/how-to-ace-data-science-interviews-sql-b71de212e433) 📘
+* - [ ]  [3 Must Know SQL Questions to pass your Data Science Interview](https://medium.com/@jayfeng/three-must-know-sql-questions-to-pass-your-data-science-interview-463311c7eaea) 📘
+* - [ ]  [10 frequently asked SQL Queries in Interviews](https://www.java67.com/2013/04/10-frequently-asked-sql-query-interview-questions-answers-database.html) 📘
+* - [ ]  [Technical Data Science Interview Questions: SQL and Coding](https://hackernoon.com/technical-data-science-interview-questions-sql-and-coding-jv1k32bf) 📘
+* - [ ]  [How to optimize SQL Queries - Datacamp](https://www.datacamp.com/community/tutorials/sql-tutorial-query) 📘
+* - [ ]  [Ten SQL Concepts You Should Know for Data Science Interviews](https://towardsdatascience.com/ten-sql-concepts-you-should-know-for-data-science-interviews-7acf3e428185) 📘
 
 ***
 ## Data Preparation and Visualization
@@ -107,7 +107,7 @@ This is probably the entry point of your Data Science project, SQL is one of the
 * [Why, how and When to scale your features](https://medium.com/greyatom/why-how-and-when-to-scale-your-features-4b30ab09db5e) 📘
 * [Everything you need to know about Scatter plots](https://towardsdatascience.com/everything-you-need-to-know-about-scatter-plots-for-data-visualisation-924144c0bc5) 📘
 * [How to Select Features for Machine Learning](https://www.youtube.com/watch?v=YaKMeAlHgqQ) 📹
-* [10 ways for Feature Selection](https://www.youtube.com/watch?v=Erp0bjEPoM8) 📹
+* - [x ]  [10 ways for Feature Selection](https://www.youtube.com/watch?v=Erp0bjEPoM8) 📹
 
 
 
