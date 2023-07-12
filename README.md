@@ -116,57 +116,57 @@ This is probably the entry point of your Data Science project, SQL is one of the
 
 ### 1. Logistic Regression
 
-* [All about Logistic Regression in one article](https://towardsdatascience.com/logistic-regression-b0af09cdb8ad) 📘 
-* [Understanding Logistic Regression step-by-step](https://towardsdatascience.com/understanding-logistic-regression-step-by-step-704a78be7e0a) 📘 
-* [Logistic Regression - Short and Clear Explanation - 9 Mins](https://www.youtube.com/watch?v=yIYKR4sgzI8) 📹
-* [Linear Regression vs Logistic Regression](https://www.youtube.com/watch?v=OCwZyYH14uw) 📹
-* [30 Questions to test a Data Scientist on Logistic Regression](https://www.analyticsvidhya.com/blog/2017/08/skilltest-logistic-regression/) 📘 
-* [Logistic Regression - Understand Everything (Theory + Maths + Coding) in 1 video](https://www.youtube.com/watch?v=VCJdg7YBbAQ) 📹
+* - [ ]   [All about Logistic Regression in one article](https://towardsdatascience.com/logistic-regression-b0af09cdb8ad) 📘 
+* - [ ]   [Understanding Logistic Regression step-by-step](https://towardsdatascience.com/understanding-logistic-regression-step-by-step-704a78be7e0a) 📘 
+* - [ ]   [Logistic Regression - Short and Clear Explanation - 9 Mins](https://www.youtube.com/watch?v=yIYKR4sgzI8) 📹
+* - [ ]   [Linear Regression vs Logistic Regression](https://www.youtube.com/watch?v=OCwZyYH14uw) 📹
+* - [ ]   [30 Questions to test a Data Scientist on Logistic Regression](https://www.analyticsvidhya.com/blog/2017/08/skilltest-logistic-regression/) 📘 
+* - [ ]   [Logistic Regression - Understand Everything (Theory + Maths + Coding) in 1 video](https://www.youtube.com/watch?v=VCJdg7YBbAQ) 📹
 
 
 ### 2. Linear Regression
 
-* [30 Questions to test a Data Scientist on Linear Regression](https://www.analyticsvidhya.com/blog/2017/07/30-questions-to-test-a-data-scientist-on-linear-regression/) 📘 
-* [Linear Regression - Understand Everything (Theory + Maths + Coding) in 1 video](https://www.youtube.com/watch?v=E5RjzSK0fvY) 📹
-* [5 Types of Regression and their properties](https://towardsdatascience.com/5-types-of-regression-and-their-properties-c5e1fa12d55e) 📘
-* [Ridge Regression - Clearly Explained](https://www.youtube.com/watch?v=Q81RR3yKn30) 📹
-* [Lasso Regression - Clearly Explained](https://www.youtube.com/watch?v=NGf0voTMlcs) 📹
+* - [ ]   [30 Questions to test a Data Scientist on Linear Regression](https://www.analyticsvidhya.com/blog/2017/07/30-questions-to-test-a-data-scientist-on-linear-regression/) 📘 
+* - [ ]   [Linear Regression - Understand Everything (Theory + Maths + Coding) in 1 video](https://www.youtube.com/watch?v=E5RjzSK0fvY) 📹
+* - [ ]   [5 Types of Regression and their properties](https://towardsdatascience.com/5-types-of-regression-and-their-properties-c5e1fa12d55e) 📘
+* - [ ]   [Ridge Regression - Clearly Explained](https://www.youtube.com/watch?v=Q81RR3yKn30) 📹
+* - [ ]   [Lasso Regression - Clearly Explained](https://www.youtube.com/watch?v=NGf0voTMlcs) 📹
 
 
 ### 3. Tree Based/Ensemble Algorithms
 
-* [30 Questions to test a Data Scientist on Tree based models](https://www.analyticsvidhya.com/blog/2017/09/30-questions-test-tree-based-models/) 📘
-* [Gini-index v/s Information Entropy](https://towardsdatascience.com/gini-index-vs-information-entropy-7a7e4fed3fcb) 📘
-* [Decision Tree vs. Random Forest – Which Algorithm Should you Use?](https://www.analyticsvidhya.com/blog/2020/05/decision-tree-vs-random-forest-algorithm/) 📘
-* [Why Random Forest doesn't work well for Time-Series?](https://medium.com/datadriveninvestor/why-wont-time-series-data-and-random-forests-work-very-well-together-3c9f7b271631) 📘
-* [Comprehensive guide to Ensemble Models](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-for-ensemble-models/) 📘
-* [The Simple Math behind 3 Decision Tree Splitting criterions](https://mlwhiz.com/blog/2019/11/12/dtsplits/) 📘
+* - [ ]   [30 Questions to test a Data Scientist on Tree based models](https://www.analyticsvidhya.com/blog/2017/09/30-questions-test-tree-based-models/) 📘
+* - [ ]   [Gini-index v/s Information Entropy](https://towardsdatascience.com/gini-index-vs-information-entropy-7a7e4fed3fcb) 📘
+* - [ ]   [Decision Tree vs. Random Forest – Which Algorithm Should you Use?](https://www.analyticsvidhya.com/blog/2020/05/decision-tree-vs-random-forest-algorithm/) 📘
+* - [ ]   [Why Random Forest doesn't work well for Time-Series?](https://medium.com/datadriveninvestor/why-wont-time-series-data-and-random-forests-work-very-well-together-3c9f7b271631) 📘
+* - [ ]   [Comprehensive guide to Ensemble Models](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-for-ensemble-models/) 📘
+* - [ ]   [The Simple Math behind 3 Decision Tree Splitting criterions](https://mlwhiz.com/blog/2019/11/12/dtsplits/) 📘
 
 
 ### 4. K-Nearest-Neighbors
 
-* [Fundamental Interview Questions on KNN - A Quick refresh](http://theprofessionalspoint.blogspot.com/2019/01/knn-algorithm-in-machine-learning.html) 📘
-* [30 Questions to test a Data Scientist on KNN](https://www.analyticsvidhya.com/blog/2017/09/30-questions-test-k-nearest-neighbors-algorithm/) 📘
-* [Pros and Cons of KNN](https://www.fromthegenesis.com/pros-and-cons-of-k-nearest-neighbors/) 📘
-* [KNN Algorithm - Understand Everything (Theory + Maths + Coding) in 1 video](https://www.youtube.com/watch?v=6kZ-OPLNcgE) 📹
+* - [ ]   [Fundamental Interview Questions on KNN - A Quick refresh](http://theprofessionalspoint.blogspot.com/2019/01/knn-algorithm-in-machine-learning.html) 📘
+* - [ ]   [30 Questions to test a Data Scientist on KNN](https://www.analyticsvidhya.com/blog/2017/09/30-questions-test-k-nearest-neighbors-algorithm/) 📘
+* - [ ]   [Pros and Cons of KNN](https://www.fromthegenesis.com/pros-and-cons-of-k-nearest-neighbors/) 📘
+* - [ ]   [KNN Algorithm - Understand Everything (Theory + Maths + Coding) in 1 video](https://www.youtube.com/watch?v=6kZ-OPLNcgE) 📹
 
 ### 5. Support Vector Machines
 
-* [All about SVMs - Math, Terminology, Intuition, Kernels in one article](https://towardsdatascience.com/support-vector-machines-svm-c9ef22815589) 📘
-* [25 Questions to test a Data Scientist on SVMs](https://www.analyticsvidhya.com/blog/2017/10/svm-skilltest/) 📘
+* - [ ]   [All about SVMs - Math, Terminology, Intuition, Kernels in one article](https://towardsdatascience.com/support-vector-machines-svm-c9ef22815589) 📘
+* - [ ]   [25 Questions to test a Data Scientist on SVMs](https://www.analyticsvidhya.com/blog/2017/10/svm-skilltest/) 📘
 
 ### 6. Naive Bayes
 
-* [12 tips to make most out of Naive Bayes](https://machinelearningmastery.com/better-naive-bayes/) 📘
-* [Naive Bayes - Understand Everything (Theory + Maths + Coding) in 1 video](https://www.youtube.com/watch?v=vz_xuxYS2PM) 📹
-* [6 easy steps to learn Naive Bayes](https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/) 📘
+* - [ ]   [12 tips to make most out of Naive Bayes](https://machinelearningmastery.com/better-naive-bayes/) 📘
+* - [ ]   [Naive Bayes - Understand Everything (Theory + Maths + Coding) in 1 video](https://www.youtube.com/watch?v=vz_xuxYS2PM) 📹
+* - [ ]   [6 easy steps to learn Naive Bayes](https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/) 📘
 
 
 ***
 ## Time Series
-* [40 Questions to test a Data Scientist on Time Series](https://www.analyticsvidhya.com/blog/2017/04/40-questions-on-time-series-solution-skillpower-time-series-datafest-2017/) 📘
-* [11 Classical Time Series Forecasting Methods](https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/) 📘
-* [Interview Questions on ARIMA](https://www.youtube.com/watch?v=654SjiZO5ks) 📹
+* - [ ]   [40 Questions to test a Data Scientist on Time Series](https://www.analyticsvidhya.com/blog/2017/04/40-questions-on-time-series-solution-skillpower-time-series-datafest-2017/) 📘
+* - [ ]  [11 Classical Time Series Forecasting Methods](https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/) 📘
+* - [ ]   [Interview Questions on ARIMA](https://www.youtube.com/watch?v=654SjiZO5ks) 📹
 
 ***
 ## Unsupervised Learning
