@@ -99,7 +99,7 @@ This is probably the entry point of your Data Science project, SQL is one of the
 * - [ ]  [Cleaning and Prepping Data with Python for Data Science — Best Practices and Helpful Packages](https://medium.com/@rrfd/cleaning-and-prepping-data-with-python-for-data-science-best-practices-and-helpful-packages-af1edfbe2a3) 📘 
 * - [ ]  [When to use which plot for visualization](https://towardsdatascience.com/what-plot-why-this-plot-and-why-not-9508a0cb35ea) 📘
 * - [ ]  [Ways to detect and remove Outliers](https://towardsdatascience.com/ways-to-detect-and-remove-the-outliers-404d16608dba) 📘
-* - [ ]  [Dealing with Class Imbalances in Machine Learning](https://towardsdatascience.com/dealing-with-imbalanced-classes-in-machine-learning-d43d6fa19d2) 📘
+* - [x]  [Dealing with Class Imbalances in Machine Learning](https://towardsdatascience.com/dealing-with-imbalanced-classes-in-machine-learning-d43d6fa19d2) 📘
 * - [ ]  [Smarter ways to encode categorical data](https://towardsdatascience.com/smarter-ways-to-encode-categorical-data-for-machine-learning-part-1-of-3-6dca2f71b159)
 * - [ ]  [Numpy and Pandas Cheatsheet](https://github.com/jessicayung/data-analyst-nd/blob/master/2-intro-to-data-analysis/numpy_pandas_cheatsheet.pdf) 📘
 * - [ ]  [3 Methods to deal with outliers](https://www.kdnuggets.com/2017/01/3-methods-deal-outliers.html) 📘
