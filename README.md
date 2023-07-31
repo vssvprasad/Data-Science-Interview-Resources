@@ -126,7 +126,7 @@ This is probably the entry point of your Data Science project, SQL is one of the
 
 ### 2. Linear Regression
 
-* - [ ]   [30 Questions to test a Data Scientist on Linear Regression](https://www.analyticsvidhya.com/blog/2017/07/30-questions-to-test-a-data-scientist-on-linear-regression/) 📘 
+* - [x]   [30 Questions to test a Data Scientist on Linear Regression](https://www.analyticsvidhya.com/blog/2017/07/30-questions-to-test-a-data-scientist-on-linear-regression/) 📘 
 * - [ ]   [Linear Regression - Understand Everything (Theory + Maths + Coding) in 1 video](https://www.youtube.com/watch?v=E5RjzSK0fvY) 📹
 * - [ ]   [5 Types of Regression and their properties](https://towardsdatascience.com/5-types-of-regression-and-their-properties-c5e1fa12d55e) 📘
 * - [ ]   [Ridge Regression - Clearly Explained](https://www.youtube.com/watch?v=Q81RR3yKn30) 📹
